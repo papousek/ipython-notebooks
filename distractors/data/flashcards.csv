@@ -1,0 +1,1753 @@
+item_id,term_type,term_name,context_name
+3117,state,Alabama,United States
+3118,state,Arizona,United States
+3119,state,Arkansas,United States
+3120,state,California,United States
+3121,state,Colorado,United States
+3122,state,Connecticut,United States
+3123,state,Delaware,United States
+3124,state,Florida,United States
+3125,state,Georgia,United States
+3126,state,Idaho,United States
+3127,state,Illinois,United States
+3128,state,Indiana,United States
+3129,state,Iowa,United States
+3132,state,Louisiana,United States
+3133,state,Maine,United States
+3134,state,Maryland,United States
+3135,state,Massachusetts,United States
+3136,state,Michigan,United States
+3137,state,Minnesota,United States
+3138,state,Mississippi,United States
+3139,state,Missouri,United States
+3140,state,Montana,United States
+3141,state,Nebraska,United States
+3142,state,Nevada,United States
+3143,state,New Hampshire,United States
+3144,state,New Jersey,United States
+3145,state,New Mexico,United States
+3146,state,New York,United States
+3147,state,North Carolina,United States
+3148,state,North Dakota,United States
+3149,state,Ohio,United States
+3150,state,Oklahoma,United States
+3151,state,Oregon,United States
+3152,state,Pennsylvania,United States
+3153,state,Rhode Island,United States
+3154,state,South Carolina,United States
+3155,state,South Dakota,United States
+3156,state,Tennessee,United States
+3157,state,Texas,United States
+3158,state,Utah,United States
+3159,state,Vermont,United States
+3160,state,Virginia,United States
+3161,state,Washington,United States
+3162,state,West Virginia,United States
+3163,state,Wisconsin,United States
+3164,state,Wyoming,United States
+3165,state,Albania,Europe
+3166,state,Albania,World
+3167,state,Afghanistan,World
+3168,state,Afghanistan,Asia
+3169,state,Algeria,World
+3170,state,Algeria,Africa
+3171,state,Angola,World
+3172,state,Angola,Africa
+3173,state,Argentina,World
+3174,state,Argentina,South America
+3175,state,Armenia,Asia
+3176,state,Armenia,World
+3177,state,Australia,World
+3178,state,Australia,Australia and Oceania
+3179,state,Azerbaijan,Asia
+3180,state,Azerbaijan,World
+3181,state,Bahamas,North America
+3182,state,Bahamas,World
+3183,state,Bangladesh,World
+3184,state,Bangladesh,Asia
+3185,state,Belgium,Europe
+3186,state,Belgium,World
+3187,state,Belize,North America
+3188,state,Belize,World
+3189,state,Belarus,World
+3190,state,Belarus,Europe
+3191,state,Benin,Africa
+3192,state,Benin,World
+3193,state,Bhutan,Asia
+3194,state,Bhutan,World
+3195,state,Bolivia,World
+3196,state,Bolivia,South America
+3197,state,Bosnia and Herz.,Europe
+3198,state,Bosnia and Herz.,World
+3199,state,Botswana,World
+3200,state,Botswana,Africa
+3201,state,Brazil,World
+3202,state,Brazil,South America
+3203,state,Brunei,Asia
+3204,state,Brunei,World
+3205,state,Bulgaria,Europe
+3206,state,Bulgaria,World
+3207,state,Burkina Faso,World
+3208,state,Burkina Faso,Africa
+3209,state,Burundi,Africa
+3210,state,Burundi,World
+3211,state,Chad,World
+3212,state,Chad,Africa
+3213,state,Montenegro,Europe
+3214,state,Montenegro,World
+3215,state,Czech Rep.,Europe
+3216,state,Czech Rep.,World
+3217,state,China,World
+3218,state,China,Asia
+3219,state,Denmark,Europe
+3220,state,Denmark,World
+3221,state,Dem. Rep. Congo,World
+3222,state,Dem. Rep. Congo,Africa
+3223,state,Dominican Rep.,North America
+3224,state,Dominican Rep.,World
+3225,state,Djibouti,Africa
+3226,state,Djibouti,World
+3227,state,Egypt,World
+3228,state,Egypt,Africa
+3229,state,Ecuador,World
+3230,state,Ecuador,South America
+3231,state,Eritrea,World
+3232,state,Eritrea,Africa
+3233,state,Estonia,Europe
+3234,state,Estonia,World
+3235,state,Ethiopia,World
+3236,state,Ethiopia,Africa
+3237,state,Falkland Is.,South America
+3238,state,Falkland Is.,World
+3239,state,Fiji,Australia and Oceania
+3240,state,Fiji,World
+3241,state,Philippines,World
+3242,state,Philippines,Asia
+3243,state,Finland,World
+3244,state,Finland,Europe
+3245,state,France,World
+3246,state,France,Europe
+3247,state,Francouzská jižní a antarktická území,World
+3248,state,Gabon,World
+3249,state,Gabon,Africa
+3250,state,Gambia,Africa
+3251,state,Gambia,World
+3252,state,Ghana,World
+3253,state,Ghana,Africa
+3254,state,Greenland,World
+3255,state,Greenland,North America
+3256,state,Georgia,Asia
+3257,state,Georgia,World
+3258,state,Guatemala,North America
+3259,state,Guatemala,World
+3260,state,Guinea,World
+3261,state,Guinea,Africa
+3262,state,Guinea-Bissau,Africa
+3263,state,Guinea-Bissau,World
+3264,state,Guyana,World
+3265,state,Guyana,South America
+3266,state,Haiti,North America
+3267,state,Haiti,World
+3268,state,Honduras,World
+3269,state,Honduras,North America
+3270,state,Chile,World
+3271,state,Chile,South America
+3272,state,Croatia,Europe
+3273,state,Croatia,World
+3274,state,India,World
+3275,state,India,Asia
+3276,state,Indonesia,World
+3277,state,Indonesia,Asia
+3278,state,Iraq,World
+3279,state,Iraq,Asia
+3280,state,Iran,World
+3281,state,Iran,Asia
+3282,state,Ireland,Europe
+3283,state,Ireland,World
+3284,state,Iceland,World
+3285,state,Iceland,Europe
+3286,state,Italy,World
+3287,state,Italy,Europe
+3288,state,Israel,Asia
+3289,state,Israel,World
+3290,state,Jamaica,North America
+3291,state,Jamaica,World
+3292,state,Japan,World
+3293,state,Japan,Asia
+3294,state,Yemen,World
+3295,state,Yemen,Asia
+3296,state,South Africa,World
+3297,state,South Africa,Africa
+3298,state,Korea,World
+3299,state,Korea,Asia
+3300,state,S. Sudan,World
+3301,state,S. Sudan,Africa
+3302,state,Jordan,Asia
+3303,state,Jordan,World
+3304,state,Cambodia,World
+3305,state,Cambodia,Asia
+3306,state,Cameroon,World
+3307,state,Cameroon,Africa
+3308,state,Canada,World
+3309,state,Canada,North America
+3310,state,Qatar,Asia
+3311,state,Qatar,World
+3312,state,Kazakhstan,World
+3313,state,Kazakhstan,Asia
+3314,state,Kenya,World
+3315,state,Kenya,Africa
+3316,state,Colombia,World
+3317,state,Colombia,South America
+3318,state,Congo,World
+3319,state,Congo,Africa
+3320,state,Costa Rica,North America
+3321,state,Costa Rica,World
+3322,state,Cuba,North America
+3323,state,Cuba,World
+3324,state,Kuwait,Asia
+3325,state,Kuwait,World
+3326,state,Kypr,World
+3327,state,Kyrgyzstan,World
+3328,state,Kyrgyzstan,Asia
+3329,state,Lao PDR,World
+3330,state,Lao PDR,Asia
+3331,state,Lesotho,Africa
+3332,state,Lesotho,World
+3333,state,Lebanon,Asia
+3334,state,Lebanon,World
+3335,state,Liberia,Africa
+3336,state,Liberia,World
+3337,state,Libya,World
+3338,state,Libya,Africa
+3339,state,Lithuania,Europe
+3340,state,Lithuania,World
+3341,state,Latvia,Europe
+3342,state,Latvia,World
+3343,state,Luxembourg,Europe
+3344,state,Luxembourg,World
+3345,state,Madagascar,World
+3346,state,Madagascar,Africa
+3347,state,Hungary,Europe
+3348,state,Hungary,World
+3349,state,Macedonia,Europe
+3350,state,Macedonia,World
+3351,state,Malaysia,World
+3352,state,Malaysia,Asia
+3353,state,Malawi,World
+3354,state,Malawi,Africa
+3355,state,Mali,World
+3356,state,Mali,Africa
+3357,state,Morocco,World
+3358,state,Morocco,Africa
+3359,state,Mauritania,World
+3360,state,Mauritania,Africa
+3361,state,Mexico,World
+3362,state,Mexico,North America
+3363,state,Moldova,Europe
+3364,state,Moldova,World
+3365,state,Mongolia,World
+3366,state,Mongolia,Asia
+3367,state,Mozambique,World
+3368,state,Mozambique,Africa
+3369,state,Myanmar,World
+3370,state,Myanmar,Asia
+3371,state,Namibia,World
+3372,state,Namibia,Africa
+3373,state,Germany,World
+3374,state,Germany,Europe
+3375,state,Nepal,World
+3376,state,Nepal,Asia
+3377,state,Niger,World
+3378,state,Niger,Africa
+3379,state,Nigeria,World
+3380,state,Nigeria,Africa
+3381,state,Nicaragua,World
+3382,state,Nicaragua,North America
+3383,state,Netherlands,Europe
+3384,state,Netherlands,World
+3385,state,Norway,World
+3386,state,Norway,Europe
+3387,state,New Caledonia,Australia and Oceania
+3388,state,New Caledonia,World
+3389,state,New Zealand,World
+3390,state,New Zealand,Australia and Oceania
+3391,state,Oman,World
+3392,state,Oman,Asia
+3393,state,Pakistan,World
+3394,state,Pakistan,Asia
+3395,state,Palestine,Asia
+3396,state,Palestine,World
+3397,state,Panama,North America
+3398,state,Panama,World
+3399,state,Papua New Guinea,World
+3400,state,Papua New Guinea,Australia and Oceania
+3401,state,Paraguay,World
+3402,state,Paraguay,South America
+3403,state,Peru,World
+3404,state,Peru,South America
+3405,state,Côte d'Ivoire,World
+3406,state,Côte d'Ivoire,Africa
+3407,state,Poland,World
+3408,state,Poland,Europe
+3409,state,Puerto Rico,North America
+3410,state,Puerto Rico,World
+3411,state,Portugal,Europe
+3412,state,Portugal,World
+3413,state,Austria,Europe
+3414,state,Austria,World
+3415,state,Eq. Guinea,Africa
+3416,state,Eq. Guinea,World
+3417,state,Romania,World
+3418,state,Romania,Europe
+3419,state,Russia,World
+3420,state,Russia,Europe
+3421,state,Russia,Asia
+3422,state,Rwanda,Africa
+3423,state,Rwanda,World
+3424,state,Greece,World
+3425,state,Greece,Europe
+3426,state,El Salvador,North America
+3427,state,El Salvador,World
+3428,state,Saudi Arabia,World
+3429,state,Saudi Arabia,Asia
+3430,state,Senegal,World
+3431,state,Senegal,Africa
+3432,state,Dem. Rep. Korea,World
+3433,state,Dem. Rep. Korea,Asia
+3434,state,Sierra Leone,Africa
+3435,state,Sierra Leone,World
+3436,state,Slovakia,Europe
+3437,state,Slovakia,World
+3438,state,Slovenia,Europe
+3439,state,Slovenia,World
+3440,state,Somalia,World
+3441,state,Somalia,Africa
+3442,state,United Arab Emirates,Asia
+3443,state,United Arab Emirates,World
+3444,state,United Kingdom,World
+3445,state,United Kingdom,Europe
+3446,state,United States,World
+3447,state,United States,North America
+3448,state,Serbia,Europe
+3449,state,Serbia,World
+3450,state,Central African Rep.,World
+3451,state,Central African Rep.,Africa
+3452,state,Sudan,World
+3453,state,Sudan,Africa
+3454,state,Suriname,World
+3455,state,Suriname,South America
+3456,state,Swaziland,Africa
+3457,state,Swaziland,World
+3458,state,Syria,World
+3459,state,Syria,Asia
+3460,state,Solomon Is.,World
+3461,state,Solomon Is.,Australia and Oceania
+3462,state,Spain,World
+3463,state,Spain,Europe
+3464,state,Sri Lanka,Asia
+3465,state,Sri Lanka,World
+3466,state,Sweden,World
+3467,state,Sweden,Europe
+3468,state,Switzerland,Europe
+3469,state,Switzerland,World
+3470,state,Tajikistan,World
+3471,state,Tajikistan,Asia
+3472,state,Tanzania,World
+3473,state,Tanzania,Africa
+3474,state,Thailand,World
+3475,state,Thailand,Asia
+3476,state,Taiwan,Asia
+3477,state,Taiwan,World
+3478,state,Togo,Africa
+3479,state,Togo,World
+3480,state,Tunisia,World
+3481,state,Tunisia,Africa
+3482,state,Turkey,World
+3483,state,Turkey,Asia
+3484,state,Turkmenistan,World
+3485,state,Turkmenistan,Asia
+3486,state,Uganda,World
+3487,state,Uganda,Africa
+3488,state,Ukraine,World
+3489,state,Ukraine,Europe
+3490,state,Uruguay,World
+3491,state,Uruguay,South America
+3492,state,Uzbekistan,World
+3493,state,Uzbekistan,Asia
+3494,state,Venezuela,World
+3495,state,Venezuela,South America
+3496,state,Vietnam,World
+3497,state,Vietnam,Asia
+3498,state,Timor-Leste,Asia
+3499,state,Timor-Leste,World
+3500,state,Zambia,World
+3501,state,Zambia,Africa
+3502,state,W. Sahara,World
+3503,state,W. Sahara,Africa
+3504,state,Zimbabwe,World
+3505,state,Zimbabwe,Africa
+3506,state,Kosovo,Europe
+3507,state,Kosovo,World
+3508,state,Somaliland,Africa
+3509,state,Somaliland,World
+3510,region_cz,Ústecký,Czech Rep.
+3511,region_cz,Plzeňský,Czech Rep.
+3512,region_cz,Jihomoravský,Czech Rep.
+3513,region_cz,Zlínský,Czech Rep.
+3514,region_cz,Olomoucký,Czech Rep.
+3515,region_cz,Pardubický,Czech Rep.
+3516,region_cz,Karlovarský,Czech Rep.
+3517,region_cz,Jihočeský,Czech Rep.
+3518,region_cz,Vysočina,Czech Rep.
+3519,region_cz,Prague,Czech Rep.
+3520,region_cz,Středočeský,Czech Rep.
+3521,region_cz,Liberecký,Czech Rep.
+3522,region_cz,Královéhradecký,Czech Rep.
+3523,region_cz,Moravskoslezský,Czech Rep.
+3524,bundesland,Nordrhein-Westfalen,Germany
+3525,bundesland,Baden-Württemberg,Germany
+3526,bundesland,Hessen,Germany
+3527,bundesland,Bremen,Germany
+3528,bundesland,Niedersachsen,Germany
+3529,bundesland,Thüringen,Germany
+3530,bundesland,Hamburg,Germany
+3531,bundesland,Schleswig-Holstein,Germany
+3532,bundesland,Rheinland-Pfalz,Germany
+3533,bundesland,Saarland,Germany
+3534,bundesland,Bayern,Germany
+3535,bundesland,Berlin,Germany
+3536,bundesland,Sachsen-Anhalt,Germany
+3537,bundesland,Sachsen,Germany
+3538,bundesland,Brandenburg,Germany
+3539,bundesland,Mecklenburg-Vorpommern,Germany
+3540,bundesland,Vorarlberg,Austria
+3541,bundesland,Burgenland,Austria
+3542,bundesland,Steiermark,Austria
+3543,bundesland,Kärnten,Austria
+3544,bundesland,Oberösterreich,Austria
+3545,bundesland,Salzburg,Austria
+3546,bundesland,Tirol,Austria
+3547,bundesland,Niederösterreich,Austria
+3548,bundesland,Wien,Austria
+3549,state,Delhi,India
+3550,state,Himachal Pradesh,India
+3551,state,Haryana,India
+3552,state,Jammu and Kashmir,India
+3553,state,Andhra Pradesh,India
+3554,state,Kerala,India
+3555,state,Orissa,India
+3556,state,Karnataka,India
+3557,state,Maharashtra,India
+3558,state,Assam,India
+3559,state,Manipur,India
+3560,state,Nagaland,India
+3561,state,Meghalaya,India
+3562,state,Punjab,India
+3563,state,Rajasthan,India
+3564,state,Uttar Pradesh,India
+3565,state,Uttaranchal,India
+3566,state,Jharkhand,India
+3567,state,West Bengal,India
+3568,state,Bihar,India
+3569,state,Sikkim,India
+3570,state,Chhattisgarh,India
+3571,state,Madhya Pradesh,India
+3572,state,Tamil Nadu,India
+3573,state,Gujarat,India
+3574,state,Goa,India
+3575,state,Arunachal Pradesh,India
+3576,state,Mizoram,India
+3577,state,Tripura,India
+3578,province,Gansu,China
+3579,province,Qinghai,China
+3580,province,Guangxi,China
+3581,province,Guizhou,China
+3582,province,Chongqing,China
+3583,province,Beijing,China
+3584,province,Paracel Islands,China
+3585,province,Anhui,China
+3586,province,Guangdong,China
+3587,province,Xizang,China
+3588,province,Xinjiang,China
+3589,province,Hainan,China
+3590,province,Ningxia,China
+3591,province,Shaanxi,China
+3592,province,Shanxi,China
+3593,province,Hubei,China
+3594,province,Hunan,China
+3595,province,Sichuan,China
+3596,province,Yunnan,China
+3597,province,Hebei,China
+3598,province,Henan,China
+3599,province,Liaoning,China
+3600,province,Shandong,China
+3601,province,Tianjin,China
+3602,province,Jiangxi,China
+3603,province,Jiangsu,China
+3604,province,Shanghai,China
+3605,province,Zhejiang,China
+3606,province,Jilin,China
+3607,province,Inner Mongol,China
+3608,province,Heilongjiang,China
+3609,city,San Marino,Europe
+3610,city,Vaduz,Europe
+3611,city,Luxembourg,Europe
+3612,city,Monaco,Europe
+3613,city,Andorra,Europe
+3614,city,Ljubljana,Europe
+3615,city,Bratislava,Slovakia
+3616,city,Bratislava,Europe
+3617,city,Podgorica,Europe
+3618,city,Bern,Europe
+3619,city,Pristina,Europe
+3620,city,Skopje,Europe
+3621,city,Reykjavík,Europe
+3622,city,Chisinau,Europe
+3623,city,Vilnius,Europe
+3624,city,Riga,Europe
+3625,city,Zagreb,Europe
+3626,city,Tallinn,Europe
+3627,city,Belgrade,Europe
+3628,city,Tirana,Europe
+3629,city,Sofia,Europe
+3630,city,Minsk,Europe
+3631,city,Sarajevo,Europe
+3632,city,Budapest,Europe
+3633,city,Bucharest,Europe
+3634,city,Lisbon,World
+3635,city,Lisbon,Europe
+3636,city,Oslo,Europe
+3637,city,Warsaw,Europe
+3638,city,Dublin,Europe
+3639,city,Prague,Europe
+3640,city,Helsinki,Europe
+3641,city,København,Europe
+3642,city,Brussels,Europe
+3643,city,Kiev,World
+3644,city,Kiev,Europe
+3645,city,Madrid,Spain
+3646,city,Madrid,World
+3647,city,Madrid,Europe
+3648,city,Stockholm,Europe
+3649,city,Amsterdam,Europe
+3650,city,Berlin,Germany
+3651,city,Berlin,World
+3652,city,Berlin,Europe
+3653,city,Athens,World
+3654,city,Athens,Europe
+3655,city,Vienna,Austria
+3656,city,Vienna,World
+3657,city,Vienna,Europe
+3658,city,London,United Kingdom
+3659,city,London,World
+3660,city,London,Europe
+3661,city,Moscow,World
+3662,city,Moscow,Europe
+3663,city,Rome,Italy
+3664,city,Rome,World
+3665,city,Rome,Europe
+3666,city,Paris,France
+3667,city,Paris,World
+3668,city,Paris,Europe
+3669,region_it,Abruzzo,Italy
+3670,region_it,Apulia,Italy
+3671,region_it,Basilicata,Italy
+3672,region_it,Calabria,Italy
+3673,region_it,Campania,Italy
+3674,region_it,Emilia-Romagna,Italy
+3675,region_it,Friuli-Venezia Giulia,Italy
+3676,region_it,Lazio,Italy
+3677,region_it,Liguria,Italy
+3678,region_it,Lombardia,Italy
+3679,region_it,Marche,Italy
+3680,region_it,Molise,Italy
+3681,region_it,Piemonte,Italy
+3682,region_it,Sardegna,Italy
+3683,region_it,Sicily,Italy
+3684,region_it,Toscana,Italy
+3685,region_it,Trentino-Alto Adige,Italy
+3686,region_it,Umbria,Italy
+3687,region_it,Valle d'Aosta,Italy
+3688,region_it,Veneto,Italy
+3689,region,Alsace,France
+3690,region,Aquitaine,France
+3691,region,Auvergne,France
+3692,region,Basse-Normandie,France
+3693,region,Bourgogne,France
+3694,region,Bretagne,France
+3695,region,Centre,France
+3696,region,Champagne-Ardenne,France
+3697,region,Corse,France
+3698,region,Franche-Comté,France
+3699,region,Haute-Normandie,France
+3700,region,Île-de-France,France
+3701,region,Languedoc-Roussillon,France
+3702,region,Limousin,France
+3703,region,Lorraine,France
+3704,region,Midi-Pyrénées,France
+3705,region,Nord-Pas-de-Calais,France
+3706,region,Pays de la Loire,France
+3707,region,Picardie,France
+3708,region,Poitou-Charentes,France
+3709,region,Provence-Alpes-Côte-d'Azur,France
+3710,region,Rhône-Alpes,France
+3711,autonomous_Comunity,Andalucía,Spain
+3712,autonomous_Comunity,Aragón,Spain
+3713,autonomous_Comunity,Cantabria,Spain
+3714,autonomous_Comunity,Castilla y León,Spain
+3715,autonomous_Comunity,Castilla-La Mancha,Spain
+3716,autonomous_Comunity,Cataluña,Spain
+3717,autonomous_Comunity,Comunidad de Madrid,Spain
+3718,autonomous_Comunity,Comunidad Foral de Navarra,Spain
+3719,autonomous_Comunity,Comunidad Valenciana,Spain
+3720,autonomous_Comunity,Extremadura,Spain
+3721,autonomous_Comunity,Galicia,Spain
+3722,autonomous_Comunity,Islas Baleares,Spain
+3723,autonomous_Comunity,La Rioja,Spain
+3724,autonomous_Comunity,País Vasco,Spain
+3725,autonomous_Comunity,Principado de Asturias,Spain
+3726,autonomous_Comunity,Región de Murcia,Spain
+3727,province,Manitoba,Canada
+3728,province,Saskatchewan,Canada
+3729,province,Alberta,Canada
+3730,province,British Columbia,Canada
+3731,province,Nunavut,Canada
+3732,province,Northwest Territories,Canada
+3733,province,Yukon,Canada
+3734,province,Ontario,Canada
+3735,province,Québec,Canada
+3736,province,New Brunswick,Canada
+3737,province,Nova Scotia,Canada
+3738,province,Newfoundland and Labrador,Canada
+3739,province,Prince Edward Island,Canada
+3740,state,Northern Territory,Australia
+3741,state,Western Australia,Australia
+3742,state,Australian Capital Territory,Australia
+3743,state,New South Wales,Australia
+3744,state,South Australia,Australia
+3745,state,Victoria,Australia
+3746,state,Queensland,Australia
+3747,state,Tasmania,Australia
+3748,mountains,Hardanger-vidda,Europe
+3749,mountains,Böhmerwald,Europe
+3750,mountains,Transylvanian Alps,Europe
+3751,mountains,Tatra Mts.,Europe
+3752,mountains,Pindus Mts.,Europe
+3753,mountains,Calabria,Europe
+3754,mountains,Harz,Europe
+3755,mountains,Vosges,Europe
+3756,mountains,Sudetes Mts.,Europe
+3757,mountains,Erzgebirge,Europe
+3758,mountains,Ardennes,Europe
+3759,mountains,Jura,Europe
+3760,mountains,Grampian Mts.,Europe
+3761,mountains,Cambrian Mts.,Europe
+3762,mountains,Balkan Mts.,Europe
+3763,mountains,Dinaric Alps,Europe
+3764,mountains,Cord. Cantábrica,Europe
+3765,mountains,S. Nevada,Europe
+3766,mountains,Sierra Morena,Europe
+3767,mountains,KJØLEN MOUNTAINS,Europe
+3768,mountains,CARPATHIAN MOUNTAINS,Europe
+3769,mountains,APPENNINI,Europe
+3770,mountains,PYRENEES,Europe
+3771,mountains,ALPS,World
+3772,mountains,ALPS,Europe
+3773,mountains,CAUCASUS MTS.,World
+3774,mountains,CAUCASUS MTS.,Europe
+3775,city,Mesa,United States
+3776,city,Kansas City,United States
+3777,city,Irvine,United States
+3778,city,Fort Lauderdale,United States
+3779,city,Long Beach,United States
+3780,city,Providence,United States
+3781,city,Birmingham,United Kingdom
+3782,city,Birmingham,United States
+3783,city,Virginia Beach,United States
+3784,city,Oakland,United States
+3785,city,West Palm Beach,United States
+3786,city,Columbus,United States
+3787,city,San Bernardino,United States
+3788,city,Bridgeport,United States
+3789,city,Ft. Worth,United States
+3790,city,Austin,United States
+3791,city,Orlando,United States
+3792,city,Indianapolis,United States
+3793,city,Baltimore,United States
+3794,city,San Jose,United States
+3795,city,San Jose,North America
+3796,city,Sacramento,United States
+3797,city,Las Vegas,United States
+3798,city,Portland,United States
+3799,city,San Antonio,United States
+3800,city,Raleigh,United States
+3801,city,Cleveland,United States
+3802,city,Cincinnati,United States
+3803,city,Memphis,United States
+3804,city,Norfolk,United States
+3805,city,Milwaukee,United States
+3806,city,Buffalo,United States
+3807,city,Pittsburgh,United States
+3808,city,Minneapolis,United States
+3809,city,Seattle,United States
+3810,city,Phoenix,United States
+3811,city,San Diego,United States
+3812,city,St. Louis,United States
+3813,city,Dallas,United States
+3814,city,Boston,United States
+3815,city,Tampa,United States
+3816,city,Philadelphia,United States
+3817,city,Detroit,United States
+3818,city,San Francisco,United States
+3819,city,San Francisco,World
+3820,city,San Francisco,North America
+3821,city,Denver,United States
+3822,city,Denver,World
+3823,city,Denver,North America
+3824,city,Houston,United States
+3825,city,Houston,World
+3826,city,Houston,North America
+3827,city,Miami,United States
+3828,city,Miami,World
+3829,city,Miami,North America
+3830,city,Atlanta,United States
+3831,city,Atlanta,World
+3832,city,Atlanta,North America
+3833,city,Chicago,United States
+3834,city,Chicago,World
+3835,city,Chicago,North America
+3836,city,Los Angeles,United States
+3837,city,Los Angeles,World
+3838,city,Los Angeles,North America
+3839,city,"Washington, D.C.",United States
+3840,city,"Washington, D.C.",World
+3841,city,"Washington, D.C.",North America
+3842,city,New York,United States
+3843,city,New York,World
+3844,city,New York,North America
+3845,city,Bielefeld,Germany
+3846,city,Dortmund,Germany
+3847,city,Duisburg,Germany
+3848,city,Wuppertal,Germany
+3849,city,Essen,Germany
+3850,city,Karlsruhe,Germany
+3851,city,Heidelberg,Germany
+3852,city,Augsburg,Germany
+3853,city,Chemnitz,Germany
+3854,city,Bonn,Germany
+3855,city,Ddsseldorf,Germany
+3856,city,Mannheim,Germany
+3857,city,Wiesbaden,Germany
+3858,city,Hannover,Germany
+3859,city,Koblenz,Germany
+3860,city,Saarbrucken,Germany
+3861,city,Leipzig,Germany
+3862,city,Stuttgart,Germany
+3863,city,Bremen,Germany
+3864,city,Nornberg,Germany
+3865,city,Cologne,Germany
+3866,city,Dresden,Germany
+3867,city,Frankfurt,Germany
+3868,city,Hamburg,Germany
+3869,city,Munich,Germany
+3870,city,London,Canada
+3871,city,Windsor,Canada
+3872,city,Winnipeg,Canada
+3873,city,Calgary,Canada
+3874,city,Ottawa,Canada
+3875,city,Ottawa,North America
+3876,city,Quebec,Canada
+3877,city,Halifax,Canada
+3878,city,Edmonton,Canada
+3879,city,Montreal,Canada
+3880,city,Vancouver,Canada
+3881,city,Vancouver,World
+3882,city,Vancouver,North America
+3883,city,Toronto,Canada
+3884,city,Toronto,World
+3885,city,Toronto,North America
+3886,city,Cranbourne,Australia
+3887,city,Gold Coast,Australia
+3888,city,Canberra,Australia
+3889,city,Canberra,Australia and Oceania
+3890,city,Newcastle,Australia
+3891,city,Newcastle,United Kingdom
+3892,city,Adelaide,Australia
+3893,city,Brisbane,Australia
+3894,city,Perth,Australia
+3895,city,Melbourne,Australia
+3896,city,Melbourne,World
+3897,city,Melbourne,Australia and Oceania
+3898,city,Sydney,Australia
+3899,city,Sydney,World
+3900,city,Sydney,Australia and Oceania
+3901,city,Bregenz,Austria
+3902,city,Eisenstadt,Austria
+3903,city,Wiener Neustadt,Austria
+3904,city,Graz,Austria
+3905,city,Klagenfurt,Austria
+3906,city,Linz,Austria
+3907,city,Passau,Austria
+3908,city,Salzburg,Austria
+3909,city,Innsbruck,Austria
+3910,city,Jihlava,Czech Rep.
+3911,city,Plzeň,Czech Rep.
+3912,city,Otrokovice,Czech Rep.
+3913,city,Třinec,Czech Rep.
+3914,city,Klášterec nad Ohří,Czech Rep.
+3915,city,Pelhřimov,Czech Rep.
+3916,city,Chrudim,Czech Rep.
+3917,city,Pardubice,Czech Rep.
+3918,city,Hradec Králové,Czech Rep.
+3919,city,Havlíčkův Brod,Czech Rep.
+3920,city,Žďár nad Sázavou,Czech Rep.
+3921,city,Velké Meziříčí,Czech Rep.
+3922,city,Svitavy,Czech Rep.
+3923,city,Moravská Třebová,Czech Rep.
+3924,city,Česká Třebová,Czech Rep.
+3925,city,Ústí nad Orlicí,Czech Rep.
+3926,city,Vysoké Mýto,Czech Rep.
+3927,city,Třebíč,Czech Rep.
+3928,city,Náchod,Czech Rep.
+3929,city,Jičín,Czech Rep.
+3930,city,Vrchlabí,Czech Rep.
+3931,city,Trutnov,Czech Rep.
+3932,city,Dvůr Králové nad Labem,Czech Rep.
+3933,city,Rychnov nad Kněžnou,Czech Rep.
+3934,city,Turnov,Czech Rep.
+3935,city,Liberec,Czech Rep.
+3936,city,Jablonec nad Nisou,Czech Rep.
+3937,city,Česká Lípa,Czech Rep.
+3938,city,Nový Bor,Czech Rep.
+3939,city,Ústí nad Labem,Czech Rep.
+3940,city,Teplice,Czech Rep.
+3941,city,Bílina,Czech Rep.
+3942,city,Most,Czech Rep.
+3943,city,Litvínov,Czech Rep.
+3944,city,Žatec,Czech Rep.
+3945,city,Louny,Czech Rep.
+3946,city,Kadaň,Czech Rep.
+3947,city,Jirkov,Czech Rep.
+3948,city,Chomutov,Czech Rep.
+3949,city,Varnsdorf,Czech Rep.
+3950,city,Rumburk,Czech Rep.
+3951,city,Děčín,Czech Rep.
+3952,city,Roudnice nad Labem,Czech Rep.
+3953,city,Litoměřice,Czech Rep.
+3954,city,Kroměříž,Czech Rep.
+3955,city,Holešov,Czech Rep.
+3956,city,Uherský Brod,Czech Rep.
+3957,city,Vsetín,Czech Rep.
+3958,city,Valašské Meziříčí,Czech Rep.
+3959,city,Rožnov pod Radhoštěm,Czech Rep.
+3960,city,Zlín,Czech Rep.
+3961,city,Mariánské Lázně,Czech Rep.
+3962,city,Cheb,Czech Rep.
+3963,city,Aš,Czech Rep.
+3964,city,Ostrov,Czech Rep.
+3965,city,Karlovy Vary,Czech Rep.
+3966,city,Sokolov,Czech Rep.
+3967,city,Chodov,Czech Rep.
+3968,city,České Budějovice,Czech Rep.
+3969,city,Český Krumlov,Czech Rep.
+3970,city,Jindřichův Hradec,Czech Rep.
+3971,city,Písek,Czech Rep.
+3972,city,Prachatice,Czech Rep.
+3973,city,Strakonice,Czech Rep.
+3974,city,Tábor,Czech Rep.
+3975,city,Jeseník,Czech Rep.
+3976,city,Šternberk,Czech Rep.
+3977,city,Uničov,Czech Rep.
+3978,city,Olomouc,Czech Rep.
+3979,city,Prostějov,Czech Rep.
+3980,city,Přerov,Czech Rep.
+3981,city,Hranice,Czech Rep.
+3982,city,Šumperk,Czech Rep.
+3983,city,Zábřeh,Czech Rep.
+3984,city,Domažlice,Czech Rep.
+3985,city,Sušice,Czech Rep.
+3986,city,Klatovy,Czech Rep.
+3987,city,Rokycany,Czech Rep.
+3988,city,Tachov,Czech Rep.
+3989,city,Vlašim,Czech Rep.
+3990,city,Benešov,Czech Rep.
+3991,city,Beroun,Czech Rep.
+3992,city,Slaný,Czech Rep.
+3993,city,Kladno,Czech Rep.
+3994,city,Kolín,Czech Rep.
+3995,city,Kutná Hora,Czech Rep.
+3996,city,Neratovice,Czech Rep.
+3997,city,Mělník,Czech Rep.
+3998,city,Kralupy nad Vltavou,Czech Rep.
+3999,city,Mladá Boleslav,Czech Rep.
+4000,city,Poděbrady,Czech Rep.
+4001,city,Nymburk,Czech Rep.
+4002,city,Brandýs nad Labem-Stará Boleslav,Czech Rep.
+4003,city,Příbram,Czech Rep.
+4004,city,Rakovník,Czech Rep.
+4005,city,Krnov,Czech Rep.
+4006,city,Bruntál,Czech Rep.
+4007,city,Frýdek-Místek,Czech Rep.
+4008,city,Český Těšín,Czech Rep.
+3130,state,Kansas,United States
+3131,state,Kentucky,United States
+4009,city,Orlová,Czech Rep.
+4010,city,Karviná,Czech Rep.
+4011,city,Havířov,Czech Rep.
+4012,city,Bohumín,Czech Rep.
+4013,city,Nový Jičín,Czech Rep.
+4014,city,Kopřivnice,Czech Rep.
+4015,city,Frenštát pod Radhoštěm,Czech Rep.
+4016,city,Opava,Czech Rep.
+4017,city,Hlučín,Czech Rep.
+4018,city,Ostrava,Czech Rep.
+4019,city,Boskovice,Czech Rep.
+4020,city,Blansko,Czech Rep.
+4021,city,Brno,Czech Rep.
+4022,city,Břeclav,Czech Rep.
+4023,city,Veselí nad Moravou,Czech Rep.
+4024,city,Hodonín,Czech Rep.
+4025,city,Kyjov,Czech Rep.
+4026,city,Vyškov,Czech Rep.
+4027,city,Znojmo,Czech Rep.
+4028,city,Praha,Czech Rep.
+4029,city,Uherské Hradiště,Czech Rep.
+4030,city,Angers,France
+4031,city,Clermont-Ferrand,France
+4032,city,Melun,France
+4033,city,Saint-Etienne,France
+4034,city,Grenoble,France
+4035,city,Caen,France
+4036,city,Nantes,France
+4037,city,Toulon,France
+4038,city,Montpellier,France
+4039,city,Nimes,France
+4040,city,Dijon,France
+4041,city,Tours,France
+4042,city,Orleans,France
+4043,city,Rouen,France
+4044,city,Reims,France
+4045,city,Mulhouse,France
+4046,city,Nancy,France
+4047,city,Metz,France
+4048,city,Rennes,France
+4049,city,Nice,France
+4050,city,Toulouse,France
+4051,city,Limoges,France
+4052,city,Lille,France
+4053,city,Strasbourg,France
+4054,city,Bordeaux,France
+4055,city,Marseille,France
+4056,city,Le Havre,France
+4057,city,Lyon,France
+4058,city,Modena,Italy
+4059,city,Reggio di Calabria,Italy
+4060,city,Caserta,Italy
+4061,city,Como,Italy
+4062,city,Treviso,Italy
+4063,city,Parma,Italy
+4064,city,Bologna,Italy
+4065,city,Cagliari,Italy
+4066,city,Pisa,Italy
+4067,city,Livorno,Italy
+4068,city,Salerno,Italy
+4069,city,Bari,Italy
+4070,city,Foggia,Italy
+4071,city,Lecce,Italy
+4072,city,Taranto,Italy
+4073,city,Messina,Italy
+4074,city,Pescara,Italy
+4075,city,Bergamo,Italy
+4076,city,Trieste,Italy
+4077,city,Verona,Italy
+4078,city,Turin,Italy
+4079,city,Genoa,Italy
+4080,city,Florence,Italy
+4081,city,Catania,Italy
+4082,city,Venice,Italy
+4083,city,Palermo,Italy
+4084,city,Naples,Italy
+4085,city,Milan,Italy
+4086,city,Marbella,Spain
+4087,city,Mataro,Spain
+4088,city,Gijon,Spain
+4089,city,Vitoria,Spain
+4090,city,Almeria,Spain
+4091,city,Malaga,Spain
+4092,city,Albacete,Spain
+4093,city,Santander,Spain
+4094,city,Salamanca,Spain
+4095,city,Burgos,Spain
+4096,city,Cartagena,Spain
+4097,city,Oviedo,Spain
+4098,city,San Sebastiln,Spain
+4099,city,Alicante,Spain
+4100,city,Castello,Spain
+4101,city,Cadiz,Spain
+4102,city,Granada,Spain
+4103,city,Murcia,Spain
+4104,city,La Coruea,Spain
+4105,city,Pamplona,Spain
+4106,city,Valladolid,Spain
+4107,city,Palma,Spain
+4108,city,Zaragoza,Spain
+4109,city,Cordoba,Argentina
+4110,city,Cordoba,Spain
+4111,city,Vigo,Spain
+4112,city,Bilbao,Spain
+4113,city,Seville,Spain
+4114,city,Valencia,Spain
+4115,city,Barcelona,Spain
+4117,state,N. Cyprus,World
+4118,state,Trinidad and Tobago,World
+4119,state,Trinidad and Tobago,North America
+4120,state,Vanuatu,World
+4121,state,Vanuatu,Australia and Oceania
+4122,island,Saaremaa,Europe
+4123,island,Åland,Europe
+4124,island,Gotland,Europe
+4116,state,N. Cyprus,India
+4125,island,Zealand,Europe
+4126,island,Lofoten,Europe
+4127,island,Vesterålen,Europe
+4128,island,Rhodes,Europe
+4129,island,Crete,Europe
+4130,island,Malta,Europe
+4131,island,Menorca,Europe
+4132,island,Mallorca,Europe
+4133,island,Ibiza,Europe
+4134,island,Lesbos,Europe
+4135,island,Kolguyev I.,Europe
+4136,island,Sardegna,World
+4137,island,Sardegna,Europe
+4138,island,Corse,World
+4139,island,Corse,Europe
+4140,island,Sicilia,World
+4141,island,Sicilia,Europe
+4142,island,IRELAND,World
+4143,island,IRELAND,Europe
+4144,island,GREAT BRITAIN,World
+4145,island,GREAT BRITAIN,Europe
+4146,island,ICELAND,World
+4147,island,ICELAND,Europe
+4148,city,Valletta,Europe
+4149,city,Sunderland,United Kingdom
+4150,city,Southampton,United Kingdom
+4151,city,Bristol,United Kingdom
+4152,city,Bournemouth,United Kingdom
+4153,city,Southend-on-Sea,United Kingdom
+4154,city,Reading,United Kingdom
+4155,city,Leicester,United Kingdom
+4156,city,Bradford,United Kingdom
+4157,city,Sheffield,United Kingdom
+4158,city,Middlesbrough,United Kingdom
+4159,city,Coventry,United Kingdom
+4160,city,Kingston upon Hull,United Kingdom
+4161,city,Brighton,United Kingdom
+4162,city,Portsmouth,United Kingdom
+4163,city,Nottingham,United Kingdom
+4164,city,Stoke,United Kingdom
+4165,city,Edinburgh,United Kingdom
+4166,city,Liverpool,United Kingdom
+4167,city,Cardiff,United Kingdom
+4168,city,Leeds,United Kingdom
+4169,city,Manchester,United Kingdom
+4170,city,Belfast,United Kingdom
+4171,city,Glasgow,United Kingdom
+4172,region_cz,Bratislavský,Slovakia
+4173,region_cz,Banskobystrický,Slovakia
+4174,region_cz,Žilinský,Slovakia
+4175,region_cz,Nitriansky,Slovakia
+4176,region_cz,Trenciansky,Slovakia
+4177,region_cz,Trnavský,Slovakia
+4178,region_cz,Košický,Slovakia
+4179,region_cz,Prešov,Slovakia
+4180,city,Zvolen,Slovakia
+4181,city,Handlová,Slovakia
+4182,city,Púchov,Slovakia
+4183,city,Šurany,Slovakia
+4184,city,Galanta,Slovakia
+4185,city,Považská Bystrica,Slovakia
+4186,city,Martin,Slovakia
+4187,city,Kežmarok,Slovakia
+4188,city,Topoľčany,Slovakia
+4189,city,Banská Štiavnica,Slovakia
+4190,city,Partizánske,Slovakia
+4191,city,Hlohovec,Slovakia
+4192,city,Levoča,Slovakia
+4193,city,Myjava,Slovakia
+4194,city,Michalovce,Slovakia
+4195,city,Šamorín,Slovakia
+4196,city,Humenné,Slovakia
+4197,city,Sabinov,Slovakia
+4198,city,Dubnica nad Váhom,Slovakia
+4199,city,Snina,Slovakia
+4200,city,Rimavská Sobota,Slovakia
+4201,city,Malacky,Slovakia
+4202,city,Dolný Kubín,Slovakia
+4203,city,Rožňava,Slovakia
+4204,city,Kolárovo,Slovakia
+4205,city,Žilina,Slovakia
+4206,city,Kysucké Nové Mesto,Slovakia
+4207,city,Holíč,Slovakia
+4208,city,Trenčín,Slovakia
+4209,city,Spišská Nová Ves,Slovakia
+4210,city,Trebišov,Slovakia
+4211,city,Revúca,Slovakia
+4212,city,Bánovce nad Bebravou,Slovakia
+4213,city,Stará Ľubovňa,Slovakia
+4214,city,Zlaté Moravce,Slovakia
+4215,city,Komárno,Slovakia
+4216,city,Lučenec,Slovakia
+4217,city,Bardejov,Slovakia
+4218,city,Skalica,Slovakia
+4219,city,Veľký Krtíš,Slovakia
+4220,city,Piešťany,Slovakia
+4221,city,Štúrovo,Slovakia
+4222,city,Brezno,Slovakia
+4223,city,Prešov,Slovakia
+4224,city,Fiľakovo,Slovakia
+4225,city,Stropkov,Slovakia
+4226,city,Dunajská Streda,Slovakia
+4227,city,Nové Mesto nad Váhom,Slovakia
+4228,city,Čadca,Slovakia
+4229,city,Pezinok,Slovakia
+4230,city,Trnava,Slovakia
+4231,city,Ružomberok,Slovakia
+4232,city,Liptovský Mikuláš,Slovakia
+4233,city,Banská Bystrica,Slovakia
+4234,city,Nová Dubnica,Slovakia
+4235,city,Senec,Slovakia
+4236,city,Detva,Slovakia
+4237,city,Prievidza,Slovakia
+4238,city,Nové Zámky,Slovakia
+4239,city,Svidník,Slovakia
+4240,city,Sereď,Slovakia
+4241,city,Vranov nad Topľou,Slovakia
+4242,city,Žiar nad Hronom,Slovakia
+4243,city,Poprad,Slovakia
+4244,city,Nitra,Slovakia
+4245,city,Levice,Slovakia
+4246,city,Bytča,Slovakia
+4247,city,Moldava nad Bodvou,Slovakia
+4248,city,Košice,Slovakia
+4249,city,Šaľa,Slovakia
+4250,city,Senica,Slovakia
+4251,island,TIERRA DEL FUEGO,World
+4252,island,Nova Scotia,World
+4253,island,Vancouver Island,World
+4254,island,VICTORIA ISLAND,World
+4255,island,LABRADOR,World
+4256,island,ELLESMERE  ISLAND,World
+4257,island,BAFFIN ISLAND,World
+4258,island,ISLAND OF NEWFOUNDLAND,World
+4259,island,SULAWESI,World
+4260,island,SULAWESI,Asia
+4261,island,JAVA,World
+4262,island,JAVA,Asia
+4263,island,MINDANAO,World
+4264,island,MINDANAO,Asia
+4265,island,LUZON,World
+4266,island,LUZON,Asia
+4267,island,TAIWAN,World
+4268,island,TAIWAN,Asia
+4269,island,KYÜSHÜ,World
+4270,island,KYÜSHÜ,Asia
+4271,island,SHIKOKU,World
+4272,island,SHIKOKU,Asia
+4273,island,HOKKAIDÖ,World
+4274,island,HOKKAIDÖ,Asia
+4275,island,SAKHALIN,World
+4276,island,SAKHALIN,Asia
+4277,island,SRI LANKA,World
+4278,island,SRI LANKA,Asia
+4279,island,TASMANIA,World
+4280,island,NEW GUINEA,World
+4281,island,BORNEO,World
+4282,island,BORNEO,Asia
+4283,island,SUMATRA,World
+4284,island,SUMATRA,Asia
+4285,island,HONSHÜ,World
+4286,island,HONSHÜ,Asia
+4287,island,GREENLAND,World
+4288,island,MADAGASCAR,World
+4289,island,SOUTH ISLAND,World
+4290,island,NORTH ISLAND,World
+4291,mountains,ETHIOPIAN HIGHLANDS,World
+4292,mountains,ZAGROS MOUNTAINS,World
+4293,mountains,ZAGROS MOUNTAINS,Asia
+4294,mountains,ALTAY MOUNTAINS,World
+4295,mountains,ALTAY MOUNTAINS,Asia
+4296,mountains,GREATER KHINGAN RANGE,World
+4297,mountains,GREATER KHINGAN RANGE,Asia
+4298,mountains,STANOVOY RANGE,World
+4299,mountains,STANOVOY RANGE,Asia
+4300,mountains,CHAÎNE ANNAMITIQUE,World
+4301,mountains,CHAÎNE ANNAMITIQUE,Asia
+4302,mountains,Siwalik Hills,World
+4303,mountains,Siwalik Hills,Asia
+4304,mountains,PAMIRS,World
+4305,mountains,PAMIRS,Asia
+4306,mountains,HINDU KUSH,World
+4307,mountains,HINDU KUSH,Asia
+4308,mountains,KARAKORAM RA.,World
+4309,mountains,KARAKORAM RA.,Asia
+4310,mountains,KUNLUN MOUNTAINS,World
+4311,mountains,KUNLUN MOUNTAINS,Asia
+4312,mountains,ATLAS MOUNTAINS,World
+4313,mountains,APPALACHIAN MTS.,World
+4314,mountains,BROOKS RANGE,World
+4315,mountains,COAST MOUNTAINS,World
+4316,mountains,CASCADE RANGE,World
+4317,mountains,ALASKA RANGE,World
+4318,mountains,GREAT DIVIDING RANGE,World
+4319,mountains,TIAN SHAN,World
+4320,mountains,TIAN SHAN,Asia
+4321,mountains,URAL MOUNTAINS,World
+4322,mountains,HIMALAYAS,World
+4323,mountains,HIMALAYAS,Asia
+4324,mountains,ANDES,World
+4325,mountains,ROCKY MOUNTAINS,World
+4326,river,Brahmaputra,World
+4327,river,Brahmaputra,Asia
+4328,river,Mekong,World
+4329,river,Mekong,Asia
+4330,river,Ob,World
+4331,river,Ob,Asia
+4332,river,Danube,World
+4333,river,Danube,Europe
+4334,river,Paraná,World
+4335,river,Congo,World
+4336,river,Congo,Africa
+4337,river,Lena,World
+4338,river,Lena,Asia
+4339,river,Chang (Yangtze),World
+4340,river,Chang (Yangtze),Asia
+4341,river,Nile,World
+4342,river,Nile,Africa
+4343,river,Amazon,World
+4344,river,Mississippi,World
+4345,lake,Lake Baikal,World
+4346,lake,Lake Winnipeg,World
+4347,lake,Great Slave Lake,World
+4348,lake,L. Ontario,World
+4349,lake,L. Erie,World
+4350,lake,Lake Superior,World
+4351,lake,Lake Victoria,World
+4352,lake,Lake Ladoga,World
+4353,lake,Balqash Köli,World
+4354,lake,Lake Tanganyika,World
+4355,lake,Lake Malawi,World
+4356,lake,Aral Sea,World
+4357,lake,Vänern,World
+4358,lake,Lago de Nicaragua,World
+4359,lake,Lago Titicaca,World
+4360,lake,Lake Winnipegosis,World
+4361,lake,Lake Onega,World
+4362,lake,Great Bear Lake,World
+4363,lake,Reindeer Lake,World
+4364,lake,Lake Huron,World
+4365,lake,Lake Michigan,World
+4366,city,Tunis,World
+4367,city,Tunis,Africa
+4368,city,Baku,World
+4369,city,Baku,Asia
+4370,city,Hanoi,World
+4371,city,Hanoi,Asia
+4372,city,Ankara,World
+4373,city,Ankara,Asia
+4374,city,Sanaa,World
+4375,city,Sanaa,Asia
+4376,city,Damascus,World
+4377,city,Damascus,Asia
+4378,city,Khartoum,World
+4379,city,Khartoum,Africa
+4380,city,Pyongyang,World
+4381,city,Pyongyang,Asia
+4382,city,Dar es Salaam,World
+4383,city,Dar es Salaam,Africa
+4384,city,Havana,World
+4385,city,Havana,North America
+4386,city,Kuwait,World
+4387,city,Kuwait,Asia
+4388,city,Santo Domingo,World
+4389,city,Santo Domingo,North America
+4390,city,Accra,World
+4391,city,Accra,Africa
+4392,city,Tripoli,World
+4393,city,Tripoli,Africa
+4394,city,Tel Aviv-Yafo,World
+4395,city,Tel Aviv-Yafo,Asia
+4396,city,Abidjan,World
+4397,city,Abidjan,Africa
+4398,city,Brasilia,Brazil
+4399,city,Brasilia,World
+4400,city,Brasilia,South America
+4401,city,Dhaka,World
+4402,city,Dhaka,Asia
+4403,city,Luanda,World
+4404,city,Luanda,Africa
+4405,city,Algiers,World
+4406,city,Algiers,Africa
+4407,city,Rangoon,World
+4408,city,Rangoon,Asia
+4409,city,Caracas,World
+4410,city,Caracas,South America
+4411,city,Tashkent,World
+4412,city,Tashkent,Asia
+4413,city,Bangkok,World
+4414,city,Bangkok,Asia
+4415,city,Lima,World
+4416,city,Lima,South America
+4417,city,Dakar,World
+4418,city,Dakar,Africa
+4419,city,Johannesburg,World
+4420,city,Johannesburg,Africa
+4421,city,Casablanca,World
+4422,city,Casablanca,Africa
+4423,city,Seoul,World
+4424,city,Seoul,Asia
+4425,city,Manila,World
+4426,city,Manila,Asia
+4427,city,Monterrey,World
+4428,city,Monterrey,North America
+4429,city,Urumqi,World
+4430,city,Urumqi,Asia
+4431,city,Chengdu,World
+4432,city,Chengdu,Asia
+4433,city,Osaka,World
+4434,city,Osaka,Asia
+4435,city,Kinshasa,World
+4436,city,Kinshasa,Africa
+4437,city,Bangalore,World
+4438,city,Bangalore,Asia
+4439,city,Baghdad,World
+4440,city,Baghdad,Asia
+4441,city,Addis Ababa,World
+4442,city,Addis Ababa,Africa
+4443,city,Tehran,World
+4444,city,Tehran,Asia
+4445,city,Buenos Aires,Argentina
+4446,city,Buenos Aires,World
+4447,city,Buenos Aires,South America
+4448,city,Kabul,World
+4449,city,Kabul,Asia
+4450,city,Taipei,World
+4451,city,Taipei,Asia
+4452,city,Istanbul,World
+4453,city,Istanbul,Asia
+4454,city,Riyadh,World
+4455,city,Riyadh,Asia
+4456,city,Cape Town,World
+4457,city,Cape Town,Africa
+4458,city,Mexico City,World
+4459,city,Mexico City,North America
+4460,city,Lagos,World
+4461,city,Lagos,Africa
+4462,city,Beijing,World
+4463,city,Beijing,Asia
+4464,city,Nairobi,World
+4465,city,Nairobi,Africa
+4466,city,Jakarta,World
+4467,city,Jakarta,Asia
+4468,city,Bogota,World
+4469,city,Bogota,South America
+4470,city,Cairo,World
+4471,city,Cairo,Africa
+4472,city,Shanghai,World
+4473,city,Shanghai,Asia
+4474,city,Tokyo,World
+4475,city,Tokyo,Asia
+4476,city,Mumbai,World
+4477,city,Mumbai,Asia
+4478,city,Santiago,World
+4479,city,Santiago,South America
+4480,city,Kolkata,World
+4481,city,Kolkata,Asia
+4482,city,Rio de Janeiro,Brazil
+4483,city,Rio de Janeiro,World
+4484,city,Rio de Janeiro,South America
+4485,city,Sao Paulo,Brazil
+4486,city,Sao Paulo,World
+4487,city,Sao Paulo,South America
+4488,city,Singapore,World
+4489,city,Singapore,Asia
+4490,city,Hong Kong,World
+4491,city,Hong Kong,Asia
+4492,city,Bir Lehlou,Africa
+4493,city,Moroni,Africa
+4494,city,Kigali,Africa
+4495,city,Mbabane,Africa
+4496,city,Juba,Africa
+4497,city,Dodoma,Africa
+4498,city,Laayoune,Africa
+4499,city,Djibouti,Africa
+4500,city,Banjul,Africa
+4501,city,Porto-Novo,Africa
+4502,city,Bujumbura,Africa
+4503,city,Lome,Africa
+4504,city,Lusaka,Africa
+4505,city,Harare,Africa
+4506,city,Kampala,Africa
+4507,city,Niamey,Africa
+4508,city,Freetown,Africa
+4509,city,Bloemfontein,Africa
+4510,city,Pretoria,Africa
+4511,city,Rabat,Africa
+4512,city,Maputo,Africa
+4513,city,Mogadishu,Africa
+4514,city,Windhoek,Africa
+4515,city,Abuja,Africa
+4516,city,Maseru,Africa
+4517,city,Antananarivo,Africa
+4518,city,Ndjamena,Africa
+4519,city,Malabo,Africa
+4520,city,Asmara,Africa
+4521,city,Lilongwe,Africa
+4522,city,Libreville,Africa
+4523,city,Nouakchott,Africa
+4524,city,Bamako,Africa
+4525,city,Conakry,Africa
+4526,city,Yamoussoukro,Africa
+4527,city,Bangui,Africa
+4528,city,Yaounde,Africa
+4529,city,Gaborone,Africa
+4530,city,Ouagadougou,Africa
+4531,city,Hargeysa,Africa
+4532,city,Sao Tome,Africa
+4533,city,Monrovia,Africa
+4534,island,HAINAN,Asia
+4535,island,TIMOR,Asia
+4536,island,Palawan,Asia
+4537,island,Bohol,Asia
+4538,island,Negros,Asia
+4539,island,Leyte,Asia
+4540,island,Samar,Asia
+4541,island,Panay,Asia
+4542,island,Mindoro,Asia
+4543,city,Melekeok,Asia
+4544,city,Doha,Asia
+4545,city,Baguio City,Asia
+4546,city,Putrajaya,Asia
+4547,city,Manama,Asia
+4548,city,Abu Dhabi,Asia
+4549,city,Ashgabat,Asia
+4550,city,Dili,Asia
+4551,city,Dushanbe,Asia
+4552,city,Islamabad,Asia
+4553,city,Kathmandu,Asia
+4554,city,Muscat,Asia
+4555,city,Colombo,Asia
+4556,city,Ulaanbaatar,Asia
+4557,city,Amman,Asia
+4558,city,Bishkek,Asia
+4559,city,Beirut,Asia
+4560,city,Tbilisi,Asia
+4561,city,Astana,Asia
+4562,city,Vientiane,Asia
+4563,city,Bandar Seri Begawan,Asia
+4564,city,Yerevan,Asia
+4565,city,Phnom Penh,Asia
+4566,city,Thimphu,Asia
+4567,city,Naypyidaw,Asia
+4568,city,Male,Asia
+4569,city,Jerusalem,Asia
+4570,city,Nicosia,Asia
+4571,city,Kuala Lumpur,Asia
+4572,city,Dubai,Asia
+4573,city,New Delhi,Asia
+4574,city,Port-of-Spain,North America
+4575,city,Roseau,North America
+4576,city,Bridgetown,North America
+4577,city,Kingstown,North America
+4578,city,Castries,North America
+4579,city,Basseterre,North America
+4580,city,Saint George's,North America
+4581,city,Saint John's,North America
+4582,city,Tegucigalpa,North America
+4583,city,Port-au-Prince,North America
+4584,city,Managua,North America
+4585,city,Panama City,North America
+4586,city,San Salvador,North America
+4587,city,Kingston,North America
+4588,city,Guatemala,North America
+4589,city,Belmopan,North America
+4590,city,Nassau,North America
+4591,city,Funafuti,Australia and Oceania
+4592,city,Tarawa,Australia and Oceania
+4593,city,Port Vila,Australia and Oceania
+4594,city,Port Moresby,Australia and Oceania
+4595,city,Honiara,Australia and Oceania
+4596,city,Wellington,Australia and Oceania
+4597,city,Suva,Australia and Oceania
+4598,city,Auckland,Australia and Oceania
+4599,city,Montevideo,South America
+4600,city,Georgetown,South America
+4601,city,Paramaribo,South America
+4602,city,Asuncion,South America
+4603,city,Quito,South America
+4604,city,Sucre,South America
+4605,city,La Paz,South America
+4606,mountains,Sumava,Czech Rep.
+4607,mountains,Krusné hory,Czech Rep.
+4608,mountains,Ceské Stredohorí,Czech Rep.
+4609,mountains,Krkonose,Czech Rep.
+4610,mountains,Jizerské hory,Czech Rep.
+4611,mountains,Orlické hory,Czech Rep.
+4612,mountains,Hrubý Jeseník,Czech Rep.
+4613,mountains,Beskydy,Czech Rep.
+4614,mountains,Ceskomoravská vrchovina,Czech Rep.
+4615,mountains,Bílé Karpaty,Czech Rep.
+4616,mountains,Ceský les,Czech Rep.
+4617,mountains,Drahanská vrchovina,Czech Rep.
+4618,mountains,Rychlebské hory,Czech Rep.
+4619,mountains,Nízký Jeseník,Czech Rep.
+4620,mountains,Plzenská pahorkatina,Czech Rep.
+4621,mountains,Novohradské hory,Czech Rep.
+4622,mountains,Chriby,Czech Rep.
+4623,mountains,Doupovské hory,Czech Rep.
+4624,mountains,Brdy,Czech Rep.
+4625,mountains,Jestedsko-kozákovský hrbet,Czech Rep.
+4626,mountains,Luzické hory,Czech Rep.
+4627,mountains,Javorníky,Czech Rep.
+4628,mountains,Stredoceská pahorkatina,Czech Rep.
+4629,river,Labe,Czech Rep.
+4630,river,Vltava,Czech Rep.
+4631,river,Ohre,Czech Rep.
+4632,river,Berounka,Czech Rep.
+4633,river,Sázava,Czech Rep.
+4634,river,Otava,Czech Rep.
+4635,river,Morava,Czech Rep.
+4636,river,Orlice,Czech Rep.
+4637,river,Odra,Czech Rep.
+4638,river,Ostravice,Czech Rep.
+4639,river,Dyje,Czech Rep.
+4640,river,Svratka,Czech Rep.
+4641,river,Svitava,Czech Rep.
+4642,river,Jizera,Czech Rep.
+4643,river,Úslava,Czech Rep.
+4644,river,Úhlava,Czech Rep.
+4645,river,Radbuza,Czech Rep.
+4646,river,Mze,Czech Rep.
+4647,river,Becva,Czech Rep.
+4648,river,Daugava (Zapadnaya Dvina),Europe
+4649,river,Dniester,Europe
+4650,river,Drava,Europe
+4651,river,Duero,Europe
+4652,river,Ebro,Europe
+4653,river,Elbe,Europe
+4654,river,Garonne,Europe
+4655,river,Loire,Europe
+4656,river,Oder,Europe
+4657,river,Po,Europe
+4658,river,Seine,Europe
+4659,river,Svernaya Dvina,Europe
+4660,river,Thames,Europe
+4661,river,Vistula,Europe
+4662,river,Vychegda,Europe
+4663,river,Rhine,Europe
+4664,river,Volga,World
+4665,river,Volga,Europe
+4666,river,Don,Europe
+4667,river,Dalälven,Europe
+4668,river,Kama,Europe
+4669,river,Tajo,Europe
+4670,river,Tisa,Europe
+4671,river,Dnepre,Europe
+4672,river,Rhône,Europe
+4673,river,Glomma,Europe
+4674,river,Kemijoki,Europe
+4675,river,Sukhona,Europe
+4676,river,Luznice,Czech Rep.
+4677,river,Ganges,World
+4678,river,Ganges,Asia
+4679,river,Yenisey,World
+4680,river,Yenisey,Asia
+4681,river,Missouri,World
+4682,river,Yukon,World
+4683,river,Orinoco,World
+4684,river,Niger,World
+4685,river,Niger,Africa
+4686,river,Zambezi,World
+4687,river,Zambezi,Africa
+4688,river,Rio Grande,World
+4689,river,Mackenzie,World
+4690,river,Yellow River,World
+4691,river,Yellow River,Asia
+4692,river,Darling,World
+4693,river,Orange,World
+4694,river,Orange,Africa
+4695,river,Tigris,World
+4696,river,Tigris,Asia
+4697,river,Amu  Darya,World
+4698,river,Amu  Darya,Asia
+4699,river,Euphrates,World
+4700,river,Euphrates,Asia
+4701,river,Indus,World
+4702,river,Indus,Asia
+4703,river,Amur,World
+4704,river,Amur,Asia
+4705,river,Murray,World
+4706,river,St. Lawrence,World
+4707,river,Syr  Darya,World
+4708,river,Sénégal,Africa
+4709,river,Limpopo,Africa
+4710,river,Okawango,Africa
+4711,river,Ubangi,Africa
+4712,river,Chari,Africa
+4713,state,Baja California,Mexico
+4714,state,Baja California Sur,Mexico
+4715,state,Coahuila,Mexico
+4716,state,Chihuahua,Mexico
+4717,state,Durango,Mexico
+4718,state,Sinaloa,Mexico
+4719,state,Sonora,Mexico
+4720,state,Zacatecas,Mexico
+4721,state,Nuevo León,Mexico
+4722,state,San Luis Potosí,Mexico
+4723,state,Tamaulipas,Mexico
+4724,state,Aguascalientes,Mexico
+4725,state,Colima,Mexico
+4726,state,Jalisco,Mexico
+4727,state,Michoacán,Mexico
+4728,state,Nayarit,Mexico
+4729,state,Campeche,Mexico
+4730,state,Oaxaca,Mexico
+4731,state,Puebla,Mexico
+4732,state,Tabasco,Mexico
+4733,state,Tlaxcala,Mexico
+4734,state,Distrito Federal,Brazil
+4735,state,Distrito Federal,Mexico
+4736,state,Guanajuato,Mexico
+4737,state,Guerrero,Mexico
+4738,state,Hidalgo,Mexico
+4739,state,México,Mexico
+4740,state,Morelos,Mexico
+4741,state,Querétaro,Mexico
+4742,state,Veracruz,Mexico
+4743,state,Chiapas,Mexico
+4744,state,Quintana Roo,Mexico
+4745,state,Yucatán,Mexico
+4746,city,Gomez Palacio,Mexico
+4747,city,Reynosa,Mexico
+4748,city,Tlaxcala,Mexico
+4749,city,Irapuato,Mexico
+4750,city,Celaya,Mexico
+4751,city,Nezahualcoyotl,Mexico
+4752,city,Orizaba,Mexico
+4753,city,Xalapa,Mexico
+4754,city,Mazatltn,Mexico
+4755,city,Morelia,Mexico
+4756,city,Tepic,Mexico
+4757,city,Pachuca,Mexico
+4758,city,Toluca,Mexico
+4759,city,Saltillo,Mexico
+4760,city,Ciudad Ju rez,Mexico
+4761,city,Durango,Mexico
+4762,city,Aguascalientes,Mexico
+4763,city,Villahermosa,Mexico
+4764,city,Cuernavaca,Mexico
+4765,city,Queretaro,Mexico
+4766,city,Mexicali,Mexico
+4767,city,Torreon,Mexico
+4768,city,Culiacan,Mexico
+4769,city,Hermosillo,Mexico
+4770,city,San Luis Potosi,Mexico
+4771,city,Matamoros,Mexico
+4772,city,Nuevo Laredo,Mexico
+4773,city,Oaxaca,Mexico
+4774,city,Leon,Mexico
+4775,city,Tijuana,Mexico
+4776,city,Chihuahua,Mexico
+4777,city,Tampico,Mexico
+4778,city,Acapulco,Mexico
+4779,city,Veracruz,Mexico
+4780,city,Tuxtla Gutierrez,Mexico
+4781,city,Cancun,Mexico
+4782,city,Merida,Mexico
+4783,city,Guadalajara,Mexico
+4784,city,Puebla,Mexico
+4785,city,Monterrey,Mexico
+4786,city,Mexico City,Mexico
+4787,state,Santa Cruz,Argentina
+4788,state,Tierra del Fuego,Argentina
+4789,state,San Juan,Argentina
+4790,state,Chubut,Argentina
+4791,state,Mendoza,Argentina
+4792,state,Neuquén,Argentina
+4793,state,La Pampa,Argentina
+4794,state,Río Negro,Argentina
+4795,state,San Luis,Argentina
+4796,state,Catamarca,Argentina
+4797,state,Jujuy,Argentina
+4798,state,La Rioja,Argentina
+4799,state,Salta,Argentina
+4800,state,Santiago del Estero,Argentina
+4801,state,Tucumán,Argentina
+4802,state,Chaco,Argentina
+4803,state,Formosa,Argentina
+4804,state,Corrientes,Argentina
+4805,state,Entre Ríos,Argentina
+4806,state,Santa Fe,Argentina
+4807,state,Misiones,Argentina
+4808,state,Ciudad de Buenos Aires,Argentina
+4809,city,Corrientes,Argentina
+4810,city,La Plata,Argentina
+4811,city,San Luis,Argentina
+4812,city,San Salvador de Jujuy,Argentina
+4813,city,Santiago del Estero,Argentina
+4814,city,Resistencia,Argentina
+4815,city,San Juan,Argentina
+4816,city,Salta,Argentina
+4817,city,Tucum-n,Argentina
+4818,city,Santa Fe,Argentina
+4819,city,Rosario,Argentina
+4820,city,Mendoza,Argentina
+4821,city,Mar del Plata,Argentina
+4822,city,Cordoba,Argentina
+4823,city,Posadas,Argentina
+4824,city,Buenos Aires,Argentina
+4825,state,Goiás,Brazil
+4826,state,Pernambuco,Brazil
+4827,state,Acre,Brazil
+4828,state,Amazonas,Brazil
+4829,state,Maranhão,Brazil
+4830,state,Pará,Brazil
+4831,state,Rondônia,Brazil
+4832,state,Tocantins,Brazil
+4833,state,Mato Grosso do Sul,Brazil
+4834,state,Minas Gerais,Brazil
+4835,state,Mato Grosso,Brazil
+4836,state,Rio Grande do Sul,Brazil
+4837,state,Paraná,Brazil
+4838,state,Santa Catarina,Brazil
+4839,state,Ceará,Brazil
+4840,state,Piauí,Brazil
+4841,state,Alagoas,Brazil
+4842,state,Bahia,Brazil
+4843,state,Espírito Santo,Brazil
+4844,state,Paraíba,Brazil
+4845,state,Rio de Janeiro,Brazil
+4846,state,Rio Grande do Norte,Brazil
+4847,state,Sergipe,Brazil
+4848,state,Roraima,Brazil
+4849,state,Amapá,Brazil
+4850,city,Niteroi,Brazil
+4851,city,Vitoria,Brazil
+4852,city,Vila Velha,Brazil
+4853,city,Santos,Brazil
+4854,city,Sdo Lu1s,Brazil
+4855,city,Belo Horizonte,Brazil
+4856,city,Maceio,Brazil
+4857,city,Natal,Brazil
+4858,city,Campinas,Brazil
+4859,city,Manaus,Brazil
+4860,city,Florianopolis,Brazil
+4861,city,Belem,Brazil
+4862,city,Porto Alegre,Brazil
+4863,city,Curitiba,Brazil
+4864,city,Fortaleza,Brazil
+4865,city,Salvador,Brazil
+4866,city,Goiania,Brazil
+4867,city,Recife,Brazil
+4868,state,French Guiana,South America
